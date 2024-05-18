@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Sibendu and I'm a Developer, from INDIA</p>
+<p align="left">My name is Sibendu and I'm a Web Developer, from INDIA</p>
 
 ###
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 <br>🔭 I’m currently working on sign-Languge-Translator <br>📚 I'm currently learning FullStack Development<br>📫 How to reach me: sibendudas.official@gmail.com </p>
+<p align="left">✨ Creating bugs since 2021 <br>🔭 I’m currently working on sign-Languge-Translator <br>📚 I'm currently learning FullStack Development </p>
 
 ###
 
@@ -56,6 +56,8 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" height="40" alt="VScode logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
  
 </div>
