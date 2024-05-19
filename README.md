@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Sibendu and I'm a Web Developer, from INDIA</p>
+<p align="center">My name is Sibendu and I'm a Web Developer, from INDIA</p>
 
 ###
 
