@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 <br>🔭 I’m currently working on sign-Languge-Translator <br>📚 I'm currently learning FullStack Development </p>
+<p align="left">✨ Creating bugs since 2021 <br>🔭 I’m currently working on my portfolio <br>📚 I'm currently learning FullStack Development </p>
 
 ###
 
@@ -45,6 +45,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
  
 </div>
